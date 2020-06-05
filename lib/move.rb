@@ -12,7 +12,3 @@ def update_array_at_with(array, index, value)
 end
 
 update_array_at_with(board, 0, "X")
-
-def input_to_index (2)
-  puts "x"
-end
